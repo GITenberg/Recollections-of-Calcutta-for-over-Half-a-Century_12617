@@ -1,0 +1,23 @@
+_repo: Recollections-of-Calcutta-for-over-Half-a-Century_12617
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Massey, Montague
+    gutenberg_agent_id: '4458'
+    url: http://www.gutenberg.org/2009/agents/4458
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calcutta (India) -- Description and travel'
+- !lcsh 'Massey, Montague -- Travel -- India -- Calcutta'
+- !lcc 'DS'
+- GITenberg
+title: Recollections of Calcutta for over Half a Century
+url: http://www.gutenberg.org/ebooks/12617
